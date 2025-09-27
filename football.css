@@ -1,0 +1,43 @@
+#About{
+    background-color: ivory;
+}
+#logo1{
+
+}
+#niv{
+    background-color: aliceblue;
+}
+
+body{
+    padding: 2%;
+}
+#logo{
+    size: 5%;
+    height: 30rem;
+    width: 80rem;
+    align-items: center;
+}
+#banner{
+    color: rgb(43, 43, 41);
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+}
+#p2{
+    text-align: center;
+    
+}
+#contact{
+    background-color: rgb(189, 186, 183);
+}
+#for{
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+}
+#footer{
+    text-align: center;
+    background-color: rgb(189, 186, 183);
+    padding-right: inherit;
+    text-decoration: solid
+}
